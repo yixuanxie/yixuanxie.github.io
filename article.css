@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+  font-size: 48px;
+}
+
+.byline {
+  font-weight: bold;
+}
+
+.dateline {
+  color: grey;
+}
+body {
+  font-size: 18px;
+  font-family: Crimson+Text;
+}
+article {
+  padding: 10px 60px;
+}
+
+p {
+  padding: 10px 60px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.figcaption {
+  text-aligh: center;
+}
