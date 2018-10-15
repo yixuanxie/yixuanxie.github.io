@@ -1,6 +1,7 @@
 h1 {
   font-family: georgia!important;
   font-size: 34px;
+  padding-bottom: 0px;
 }
 
 .byline {
@@ -25,6 +26,7 @@ body {
 }
 
 img {
+  padding-top: 0px;
   max-width: 100%;
 }
 
