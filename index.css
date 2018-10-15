@@ -1,31 +1,37 @@
 h1 {
-  color: red;
-  font-size: 48px;
+  font-family: georgia!important;
+  font-size: 34px;
 }
 
 .byline {
-  font-weight: bold;
+  color: #144A7C!important;
+  font-family: georgia;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .dateline {
-  color: grey;
-}
-body {
-  font-size: 18px;
-  font-family: Crimson+Text;
-}
-article {
-  padding: 10px 60px;
+  color: #666!important;
+  font-family: arial;
+  font-size: 10px;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
-p {
-  padding: 10px 60px;
+
+body {
+  font-size: 15px;
+  padding: 15px 15px;
 }
 
 img {
   max-width: 100%;
 }
 
-.figcaption {
-  text-aligh: center;
+figcaption {
+  color: #999;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 0px;
 }
