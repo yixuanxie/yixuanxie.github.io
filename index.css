@@ -34,9 +34,9 @@ body {
 
 Label {
   color: #144A7C!important;
-  font-size: 15px;
+  font-size: 15px!important;
   font-weight: bold;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
 }
 
 img {
