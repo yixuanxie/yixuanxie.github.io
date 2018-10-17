@@ -1,7 +1,9 @@
 h1 {
-  font-family: georgia!important;
+  font-family: 'Bree Serif', serif!important;
+  font-weight: bold!important;
   font-size: 34px;
-  padding-bottom: 0px;
+  line-height: 40px!important;
+  margin-bottom: 30px;
 }
 
 .byline {
@@ -9,6 +11,8 @@ h1 {
   font-family: georgia;
   font-size: 14px;
   font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .dateline {
@@ -23,18 +27,25 @@ contact {
   color: #144A7C!important;
 }
 
-link {
-  font-weight: bold;
-}
-
 body {
   font-size: 15px;
   padding: 15px 15px;
 }
 
+Label {
+  color: #144A7C!important;
+  font-size: 15px;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
 img {
-  padding-top: 0px;
   max-width: 100%;
+}
+
+figure {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 figcaption {
