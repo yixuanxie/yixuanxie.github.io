@@ -7,16 +7,7 @@ h1 {
 }
 
 body {
-  margin: 20px!important;
-}
-
-.tag {
-  text-align: center;
-  color: white;
-  height: 60px;
-  background-color:#144A7C;
-  font-size: 40px;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 .byline {
@@ -36,8 +27,19 @@ body {
   text-transform: uppercase;
 }
 
-contact {
+tag {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Charmonman', cursive;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+section {
   color: #144A7C!important;
+  font-family: georgia;
+  font-size: 14px;
 }
 
 body {
@@ -45,9 +47,6 @@ body {
   padding: 15px 15px;
 }
 
-Label {
-  color: #144A7C!important;
-  font-size: 15px!important;
-  font-weight: bold;
-  padding-bottom: 30px;
+contact {
+  font-style: italic;
 }
