@@ -43,20 +43,6 @@ body {
   padding: 15px 15px;
 }
 
-
-img {
-  max-width: 100%;
-}
-
-figure {
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-
-figcaption {
-  color: #999;
-  font-family: arial;
-  font-size: 12px;
-  font-weight: 400;
-  margin-top: 0px;
+contact {
+  font-style: italic;
 }
