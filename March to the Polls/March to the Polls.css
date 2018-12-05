@@ -1,5 +1,5 @@
 html {
-  font-size: 10px;
+  font-size: 16px;
 }
 
 h1 {
@@ -65,15 +65,13 @@ img {
   margin-bottom: 7.5%;
   height: auto;
   display: block;
-  display: inline-block;
-  width: 50%;
 }
 
 figure {
   margin-top: 3rem;
   margin-bottom: 3rem;
   overflow: hidden;
-  display: inline-block;
+  display: inline-block!important;
   width: 50%;
 }
 
